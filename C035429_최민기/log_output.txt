@@ -1,0 +1,7 @@
+[iKniMiohC] Tue May 20 10:58:31 2025 +0900 Merge branch 'main' of https://github.com/iKniMiohC/sogongAssignment2 into minki 4736a28
+[iKniMiohC] Tue May 20 10:58:23 2025 +0900 class diagram 추가 98b8a20
+[minki] Tue May 20 10:01:18 2025 +0900 Merge pull request #2 from iKniMiohC/minki 250085f
+[iKniMiohC] Tue May 20 10:00:39 2025 +0900 Communication Diagram 추가 73ef61d
+[minki] Mon May 19 00:18:54 2025 +0900 Merge pull request #1 from iKniMiohC/minki 444e28f
+[iKniMiohC] Mon May 19 00:17:12 2025 +0900 requirement list, description, UseCase diagram 완성 3dd8950
+[minki] Sun May 18 21:11:51 2025 +0900 Initial commit c044f5c
